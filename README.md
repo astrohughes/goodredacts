@@ -8,7 +8,7 @@
 
 Think `goodreads` - but better (sike).
 
-**Author:** Kyle Hughes  | @kyle.evan.hughes@gmail.com | 2020-2026+ | [LinkedIn](https://www.linkedin.com/in/kyle-hughes-57763a33b/)
+**Author:** Kyle Hughes  | kyle.evan.hughes@gmail.com | 2020-2026+ | [LinkedIn](https://www.linkedin.com/in/kyle-hughes-57763a33b/)
 
 * DISCLAIMER: this is for fun/educational purposes **only**, and does not represent the opinions/thoughts of my company or any of those I've previously represented. It is derived solely from me (and whoever contributes) only because I believe it to be related to a subset of topics that (I think) are criticially important, both to the progression and survival of humanity on Earth.
 
