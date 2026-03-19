@@ -1,4 +1,4 @@
-# 🛸 A brief peedrun through Hell
+# 🛸 A brief speedrun through Hell
 
 > Declassified FOIA documents from CIA, NSA, DIA, NARA & related intel sources.
 > All links are publicly available on official government servers — fully legal to access.
