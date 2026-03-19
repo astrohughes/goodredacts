@@ -8,16 +8,16 @@
 
 Think `goodreads` - but better (sike).
 
-**Author:** Kyle Hughes  | @kyle.evan.hughes@gmail.com | 2019-2016
+**Author:** Kyle Hughes  | @kyle.evan.hughes@gmail.com | 2020-2026+ | [LinkedIn](https://www.linkedin.com/in/kyle-hughes-57763a33b/)
 
 * DISCLAIMER: this is for fun/educational purposes **only**, and does not represent the opinions/thoughts of my company or any of those I've previously represented. It is derived solely from me (and whoever contributes) only because I believe it to be related to a subset of topics that (I think) are criticially important, both to the progression and survival of humanity on Earth.
 
 ---
 
-> The great enemy of truth is very often not the lie — deliberate,
+> "*The great enemy of truth is very often not the lie — deliberate,
 > contrived and dishonest — but the myth — persistent, persuasive and
-> unrealistic”
-> from President John F. Kennedy, 1963
+> unrealistic.*”
+> from President John F. Kennedy (1962)
 
 > *"The phenomena described in this report are real."*
 > from Lt. Col. Wayne McDonnell, CIA, on the Gateway Process (**1983**)
