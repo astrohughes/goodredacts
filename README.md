@@ -1,7 +1,12 @@
 # goodredacts
 
-A good redaction is a missing one.
+##### A good redaction is a missing one.
+
+---
+
 `goodredacts` is my curated reading list of FOIA-declassified government documents on UFO/UAPs, mind control, remote viewing, JFK, etc.
+
+Think `goodreads` - but better (sike).
 
 -> Kyle Hughes (2019 - ongoing)
 
@@ -12,6 +17,8 @@ A good redaction is a missing one.
 > *"The phenomena described in this report are real."*
 > — Lt. Col. Wayne McDonnell, CIA, on the Gateway Process (1983)
 ---
+* NOTE: Got way more of those, but I am tired of typing and want to go play pool
+
 ---
 
 Notes for the Reader:
