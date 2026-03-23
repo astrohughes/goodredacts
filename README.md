@@ -1,29 +1,27 @@
 # goodredacts
 
-### A good redaction is a missing one.
-
----
+##### A good redaction is a missing one
 
 `goodredacts` is my curated reading list of FOIA-declassified government documents on UFO/UAPs, mind control, remote viewing, JFK, etc.
 
 Think `goodreads` - but better (sike).
 
-**Author:** Kyle Hughes  | kyle.evan.hughes@gmail.com | 2020-2026+ | [LinkedIn](https://www.linkedin.com/in/kyle-hughes-57763a33b/)
+**Author:** Kyle Hughes  | kyle.evan.hughes@gmail.com | 2019-2026+ | [LinkedIn](https://www.linkedin.com/in/kyle-hughes-57763a33b/)
 
-* DISCLAIMER: this is for fun/educational purposes **only**, and does not represent the opinions/thoughts of my company or any of those I've previously represented. It is derived solely from me (and whoever contributes) only because I believe it to be related to a subset of topics that (I think) are criticially important, both to the progression and survival of humanity on Earth.
+* **DISCLAIMER**: this effort is for fun/educational purposes **only**, and does not represent the opinions/thoughts of my company or any of those I've previously represented. It is derived solely from me (and whoever potentially contributes), simply because I believe it to be related to a vast set of topics that (I think) are criticially important, both to the progression and survival of humanity on Earth.
 
 ---
 
 > "*The great enemy of truth is very often not the lie — deliberate,
 > contrived and dishonest — but the myth — persistent, persuasive and
 > unrealistic.*”
-> from President John F. Kennedy (1962)
+> from President John F. Kennedy (**1962**)
 
 > *"The phenomena described in this report are real."*
 > from Lt. Col. Wayne McDonnell, CIA, on the Gateway Process (**1983**)
 
 > *"The individual is handicapped by coming face-to-face with a conspiracy so monstrous he cannot believe it exists."*
-> from J. Edgar Hoover (1956)
+> from J. Edgar Hoover (**1956**)
 
 ---
 
@@ -36,5 +34,3 @@ Notes for the Reader:
 ---
 
 Much love, and stay safe.
-
-@astrohughes
