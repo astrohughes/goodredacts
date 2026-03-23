@@ -44,9 +44,9 @@ https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction
 
 ### 1953 — The Robertson Panel
 
-| Year       | Link                                                                                                   | Summary                                                                                                                                                                                                                                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| (Jan 1953) | [CIA-RDP81R00560R000100040001-7](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040001-7) | The **Robertson Panel** — arguably the most consequential UFO document in U.S. history. CIA-convened scientists concluded UFOs posed no direct threat but recommended *debunking public interest* and *monitoring civilian UFO groups*. CIA sponsorship was forbidden from public mention. Declassified 1975. |
+| Year       | Link                                                                                                   | Summary                                                                                                                                                                                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (Jan 1953) | [CIA-RDP81R00560R000100040001-7](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040001-7) | The**Robertson Panel** — arguably the most consequential UFO document in U.S. history. CIA-convened scientists concluded UFOs posed no direct threat but recommended *debunking public interest* and *monitoring civilian UFO groups*. CIA sponsorship was forbidden from public mention. Declassified 1975. |
 
 ---
 
@@ -87,7 +87,7 @@ https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction
 
 ## II. Mind Control: BLUEBIRD → ARTICHOKE → MKULTRA
 
-> **The lineage:** BLUEBIRD (1950) → ARTICHOKE (1951) → MKULTRA (1953–1964)
+> **The lineage:** BLUEBIRD (1950) → ARTICHOKE (1951) → MKULTRA (1953–1964).
 > Most MKULTRA files were **destroyed** on orders from DCI Richard Helms in 1973.
 > What survives was misfiled in a budget office and escaped destruction.
 
@@ -106,8 +106,8 @@ https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction
 
 ## III. Remote Viewing & Project STARGATE
 
-> **Program lineage:** SCANATE (1972) → GONDOLA WISH → GRILL FLAME → CENTER LANE → SUN STREAK → **STARGATE** (terminated 1995)
-> Primary research conducted at Stanford Research Institute (SRI). Thousands of documents released 1995.
+> **Program lineage:** SCANATE (1972) → GONDOLA WISH → GRILL FLAME → CENTER LANE → SUN STREAK → **STARGATE** (terminated 1995).
+> Primary research conducted at Stanford Research Institute (SRI). Thousands of documents released 1995 (my birth year, nice).
 
 | Year          | Link                                                                                                   | Summary                                                                                                                                                                                                                                                                      |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,6 +121,8 @@ https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction
 ---
 
 ### 🔴 The Mars Remote Viewing Session
+
+**My personal favorite.**
 
 | Year           | Link                                                                                                   | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
