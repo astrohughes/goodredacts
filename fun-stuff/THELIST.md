@@ -28,8 +28,9 @@
 - [XVI. &#34;They Already Knew&#34; — Presidential Encounters, MJ-12 &amp; The Permanent Government](#xvi-they-already-knew--presidential-encounters-mj-12--the-permanent-government)
 - [XVII. The Architecture of Power — Freemasonry, The Jesuits &amp; Occult Governance](#xvii-the-architecture-of-power--freemasonry-the-jesuits--occult-governance)
 - [XVIII. The Reset Button — Civilizational Collapse &amp; Cyclical Catastrophe](#xviii-the-reset-button--civilizational-collapse--cyclical-catastrophe)
-- [XX. The Holy Land Files — Greater Israel, Palestine, Iran &amp; The Eschatological Endgame](#xx-the-holy-land-files--greater-israel-palestine-iran--the-eschatological-endgame)
-- [XIX. Bonus: The Broader FOIA Universe](#xix-bonus-the-broader-foia-universe)
+- [XIX. The Holy Land Files — Greater Israel, Palestine, Iran &amp; The Eschatological Endgame](#xx-the-holy-land-files--greater-israel-palestine-iran--the-eschatological-endgame)
+- [XX. Cause of Death: Classified — Scientists, Engineers & The Pattern That Won't Go Away](#xxi-cause-of-death-classified--scientists-engineers--the-pattern-that-wont-go-away)
+- [XXI. Bonus: The Broader FOIA Universe](#xix-bonus-the-broader-foia-universe)
 
 *"We are living in a kind of controlled experiment. Unknown to us, our beliefs, our technologies, our social structures may be the object of manipulation by higher intelligences. This is not a comforting thought. But the alternative — that we are truly alone in a random universe, stumbling through history without guidance or interference — is, I think, even less comforting."*
 
@@ -950,14 +951,9 @@ https://www.ibtimes.co.uk/chinas-nostradamus-trump-holy-war-iran-global-crisis-1
 
 ## XXI. Cause of Death: Classified — Scientists, Engineers & The Pattern That Won't Go Away
 
-> *Three clusters. Three eras. One question that keeps not getting answered:
-> why do the people who know the most keep dying in the strangest ways?
-> The Marconi deaths were ruled suicides. The microbiologist deaths were ruled
-> coincidences. The 2023–2026 cases are, right now, being investigated by the
-> White House, the FBI, NASA, the DOE, and the House Oversight Committee —
-> simultaneously — and the official position is still: probably nothing.*
->
-> *Probably.*
+> "I will probably be found dead in the woods."
+> — Dr. David Kelly, UK weapons inspector, February 2003
+> (Five months later, he was. The inquest was replaced by a government inquiry. Nine forensic doctors said the cause of death > was medically impossible. No fresh inquest was ever held.)
 
 > 💡 **Fun fact:** When British MP Doug Hoyle asked the Ministry of Defence in 1987
 > to explain the deaths of multiple GEC-Marconi scientists, the MoD's response was
@@ -1097,6 +1093,17 @@ https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-n
 
 ---
 
+> *Three clusters. Three eras. One question that keeps not getting answered:
+> why do the people who know the most keep dying in the strangest ways?
+> The Marconi deaths were ruled suicides. The microbiologist deaths were ruled
+> coincidences. The 2023–2026 cases are, right now, being investigated by the
+> White House, the FBI, NASA, the DOE, and the House Oversight Committee —
+> simultaneously — and the official position is still: probably nothing.*
+>
+> *Probably.*
+
+This is a problem.
+
 > *"When researchers die in a lab, there's a way of taking note of the deaths and adding them up.
 > When they die in freakish accidents outside the lab, nobody keeps track."*
 >
@@ -1108,7 +1115,7 @@ https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-n
 
 ---
 
-## XXII. The Broader FOIA Universe
+## XXI. The Broader FOIA Universe
 
 | Source                                    | URL                                                                                   | Notes                                                                                                                                                                                                                                        | Backup Search                                                                  |
 | ----------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
